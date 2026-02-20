@@ -2,7 +2,7 @@
 
 Welcome to my **professional portfolio website**, showcasing my journey, skills, and projects in **Cybersecurity, Networking, Cloud Computing, DevOps, and IT Infrastructure**.
 
-🔗 **Live Portfolio:** *website link*  
+🔗 **Live Portfolio:** *[link](https://ashutosh1961.github.io/Ashutoshkabade-portfolio/)*    
 📄 **Resume:** *[link](https://drive.google.com/file/d/1kR_RFahweWyXx2KFFRfGwjkqXsa1XERR/view)*  
 
 ---
@@ -60,7 +60,7 @@ I enjoy transforming complex challenges into efficient technical solutions and c
 
 - 🔗 **LinkedIn:** *https://www.linkedin.com/in/ashutoshkabade/*  
 - 🐙 **GitHub:** https://github.com/ashutosh1961  
-- 🌐 **Portfolio Website:** *link*  
+- 🌐 **Portfolio Website:** *[link](https://ashutosh1961.github.io/Ashutoshkabade-portfolio/)*    
 
 ---
 
